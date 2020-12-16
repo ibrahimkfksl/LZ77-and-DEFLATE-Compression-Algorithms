@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589666864 source:c:\users\abdullahyasarkisa\desktop\billab\prolab2-2-v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<string.h>
+
